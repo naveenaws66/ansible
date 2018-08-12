@@ -1,0 +1,15 @@
+1.writing play book for installing 
+lamp on centos
+2.for installing inginx on centos and 
+ubuntu.
+
+
+
+
+
+
+
+
+
+
+
