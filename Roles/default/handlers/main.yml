@@ -1,6 +1,0 @@
----
-# handlers file for default
- - name:
-   service:
-     name: "{{ web_server }}"
-     state: restarted
